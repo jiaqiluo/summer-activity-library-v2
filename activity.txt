@@ -1,0 +1,8 @@
+skating;Skateboarding is an action sport which involves riding and performing tricks using a skateboard;Salem;required;nothing;4
+surfing;The term surfing refers to the act of riding a wave, regardless of whether the wave is ridden with a board or without a board, and regardless of the stance used (goofy or regular stance);Rockaway Beach;required;be careful of the shark;5
+golf;the wonderful summer sport;Portland;required;prepare enough balls;4
+enjoy the sunshine;the best sunshine in the west coast;Portland;unrequired;you might need sunglasses;1
+sleeping;have sweat dreams in the sweat summer;Salem;unrequired;nothing;1
+beer festival;there will be the best beer festival in the summer;Oregon City;unrequired;nothing;1
+camping;close to the nature, have fun;Sauvie Island;required;keep warm at night;3
+Eating;yum yum in mah tum;Sao Paulo;required;nothing;0
